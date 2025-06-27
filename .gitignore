@@ -4,3 +4,7 @@ template.tex
 /.quarto/
 arxiv.sty
 orcidlink.sty
+
+# pixi environments
+.pixi
+*.egg-info
