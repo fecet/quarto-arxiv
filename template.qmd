@@ -6,6 +6,8 @@ format:
     linenumbers: false
     doublespacing: false
     runninghead: "A Preprint"
+    mathfont: "Latin Modern Math"
+    # mainfont: "Latin Modern Roman"
   arxiv-html: default
 author:
   - name: Michael J Mahoney
